@@ -93,5 +93,4 @@ http://www-personal.umich.edu/~jbourj/peskin/Quantum%20Field%20Theory%20II%20hom
 
 
 *Additional Resources:*   
-- People in ML to [follow on Twitter](https://www.quora.com/Who-should-I-follow-on-Twitter-to-get-useful-and-reliable-machine-learning-information "Quora.com")
 - Join the ["Wizards" Slack channel](http://wizards.herokuapp.com/ "Herokuapp.com"). Join the "Physics" channel.
