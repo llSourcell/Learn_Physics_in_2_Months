@@ -3,6 +3,7 @@
 This is the curriculum for "Learn Physics in 2 Months" by Siraj Raval on Youtube. [This](https://youtu.be/RGD6KQ6bRS8) video.
 
 ##### Why Learn Physics?
+- It's fundamentally helped us build modern civilization. 
 - It's used in Quantum Computing
 - It's used in Computer Engineering
 - It's used for innovation in general (thinking in first principles)
