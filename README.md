@@ -86,8 +86,8 @@ http://www.physics.rutgers.edu/~haule/501/sol_final_2015.pdf
 - Lectures
 https://www.youtube.com/watch?v=IGHvf9BwkDY&list=PLbMVogVj5nJQ3slQodXQ5cSEtcp4HbNFc 
 - Study Guide
-https://web.physics.ucsb.edu/~mark/ms-qft-DRAFT.pdf- 
-Final Exam 
+https://web.physics.ucsb.edu/~mark/ms-qft-DRAFT.pdf 
+- Final Exam 
 http://www-personal.umich.edu/~jbourj/peskin/Quantum%20Field%20Theory%20II%20homeworks.pdf
 
 
